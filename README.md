@@ -8,7 +8,6 @@ I'm a junior developer who is interested in the web-mobile development and AI te
 
 * 🌍  I'm based in Turkey / Samsun
 * ✉️  You can contact me at [hifaoner@gmail.com](mailto:hifaoner@gmail.com)
-* 🧠  I'm learning Frontend Technologies
 
 ### Skills
 
