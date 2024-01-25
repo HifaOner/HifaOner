@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Mobile Developer
 ------------------------
 
-I'm a junior developer who is interested in the web-mobile development and AI technologies
+I'm a junior developer who is interested in the web-mobile development.
 
 * 🌍  I'm based in Turkey / Samsun
 * ✉️  You can contact me at [hifaoner@gmail.com](mailto:hifaoner@gmail.com)
