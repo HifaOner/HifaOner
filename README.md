@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hifa Nur Oner
+Hi, I'm Hifa Nur Oner!
 =====================================================================================================================================
 
-Mobile Developer and Designer
------------------------------
+I'm a young mobile developer and designer who is always eager to learn new things in every field.
+
+
 
 * 🌍  I'm based in Turkey / Samsun
 * ✉️  You can contact me at [hifaoner@gmail.com](mailto:hifaoner@gmail.com)
