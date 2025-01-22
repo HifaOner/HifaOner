@@ -1,7 +1,6 @@
 Hi, I'm Hifa Nur Oner!
 =====================================================================================================================================
 
-I'm a young mobile developer and designer who is always eager to learn new things in every field.
 
 
 
