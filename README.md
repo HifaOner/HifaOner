@@ -4,9 +4,6 @@ Hi, I'm Hifa Nur Oner!
 
 
 
-* 🌍  I'm based in Turkey / Samsun
-* ✉️  You can contact me at [hifaoner@gmail.com](mailto:hifaoner@gmail.com)
-
 ### Skills
 
 
